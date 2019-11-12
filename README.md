@@ -18,6 +18,8 @@ We will most likely held an absolute beginner to R meetup next year where you ca
 
 Many thanks, and looking forward to see you at our meetup!!
 
-Best,
-Ulfah Mardhiah
+Best,   
+
+Ulfah Mardhiah   
+
 R Ladies Bogor & R Ladies Jakarta coordinator

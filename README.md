@@ -1,7 +1,7 @@
 Hi R Ladies Indonesia!!
 
 Welcome to the club!!
-It's really great that after 7 months running, the R Ladies Indonesia have developed two separate chapters (not too separated, but still ;)) in Bogor and in Jakarta. We are happy to meet new faces during our meetups, and we'd like to support all the newcomers while moving forwards first with our current regular participants. 
+It's really great that after 7 months running, the R Ladies Indonesia have developed two separate chapters (not too separated, but still ;)) in Bogor and in Jakarta. We are happy to meet new faces during our meetups, and we'd like to support all the newcomers while moving forward first with our current regular participants. 
 
 As you might have noticed, our R Ladies, be it the one in Bogor or Jakarta, has a running theme of intro to R - classical statistics with R - advance statistics with R before we decide on what's next to have in our meetups (maybe we'll dwell into RMarkdown and Tidyverse). Since we need to keep on moving, we are unfortunately aren't capable to give intro to R at every meetup. 
 

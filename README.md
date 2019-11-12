@@ -1,4 +1,4 @@
-Hi R Ladies Indonesia!!
+#Hi R Ladies Indonesia!!
 Welcome to the club!!
 It's really great that after 7 months running, the R Ladies Indonesia have developed two separate chapters (not too separated, but still ;)) in Bogor and in Jakarta. We are happy to meet new faces during our meetups, and we'd like to support all the newcomers while moving forwards first with our current regular participants. 
 
